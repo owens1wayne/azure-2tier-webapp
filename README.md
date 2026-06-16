@@ -8,7 +8,7 @@
 ![Level](https://img.shields.io/badge/Level-Beginner-50B8E8?style=for-the-badge)
 
 > **Series:** Watch Me Work — Real Builds. Real Security. Real Lessons.
-> **Session 02 of ??** | ⏱️ Estimated Time: 60 Minutes | 💰 Cost: < $0.05 (delete resources after) | 👤 Author: Jhante Charles
+> **Session 02 of ??** | ⏱️ Estimated Time: 60 Minutes | 💰 Cost: < $0.05 (delete resources after) | 👤 Author: Wayne Owens
 
 ---
 
