@@ -1,4 +1,7 @@
 # azure-2tier-webapp
+
+[Watch Me Work](https://azure.microsoft.com/free/)
+
 # 🔐 Watch Me Work — Session 02: Building a Secure 2-Tier Web Application on Azure
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
