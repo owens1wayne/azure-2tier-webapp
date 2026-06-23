@@ -1,6 +1,6 @@
 # azure-2tier-webapp
 
-[Watch Me Work](https://azure.microsoft.com/free/)
+[Watch Me Work](https://loom.com/share/bf0721f0a0ee44e795221a92bd9f7889)
 
 # 🔐 Watch Me Work — Session 02: Building a Secure 2-Tier Web Application on Azure
 
